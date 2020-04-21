@@ -13,7 +13,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Registrao de Libros</title>
+        <title>Registro de Libros</title>
         <%@include file="../css.jsp"%>
     </head>
     <body>
